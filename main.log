@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-08-15T16:21:39</date>
+  <millis>1565857299910</millis>
+  <sequence>0</sequence>
+  <logger>main</logger>
+  <level>INFO</level>
+  <class>CH15.SimpleThreadLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>main: message 0</message>
+</record>
+<record>
+  <date>2019-08-15T16:21:40</date>
+  <millis>1565857300996</millis>
+  <sequence>1</sequence>
+  <logger>main</logger>
+  <level>INFO</level>
+  <class>CH15.SimpleThreadLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>main: message 1</message>
+</record>
+<record>
+  <date>2019-08-15T16:21:41</date>
+  <millis>1565857301998</millis>
+  <sequence>2</sequence>
+  <logger>main</logger>
+  <level>INFO</level>
+  <class>CH15.SimpleThreadLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>main: message 2</message>
+</record>
+<record>
+  <date>2019-08-15T16:21:43</date>
+  <millis>1565857303000</millis>
+  <sequence>3</sequence>
+  <logger>main</logger>
+  <level>INFO</level>
+  <class>CH15.SimpleThreadLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>main: message 3</message>
+</record>
+<record>
+  <date>2019-08-15T16:21:44</date>
+  <millis>1565857304002</millis>
+  <sequence>4</sequence>
+  <logger>main</logger>
+  <level>INFO</level>
+  <class>CH15.SimpleThreadLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>main: message 4</message>
+</record>
+<record>
+  <date>2019-08-15T16:21:45</date>
+  <millis>1565857305004</millis>
+  <sequence>5</sequence>
+  <logger>main</logger>
+  <level>INFO</level>
+  <class>CH15.SimpleThreadLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>main: message 5</message>
+</record>
+<record>
+  <date>2019-08-15T16:21:46</date>
+  <millis>1565857306006</millis>
+  <sequence>6</sequence>
+  <logger>main</logger>
+  <level>INFO</level>
+  <class>CH15.SimpleThreadLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>main: message 6</message>
+</record>
+<record>
+  <date>2019-08-15T16:21:47</date>
+  <millis>1565857307008</millis>
+  <sequence>7</sequence>
+  <logger>main</logger>
+  <level>INFO</level>
+  <class>CH15.SimpleThreadLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>main: message 7</message>
+</record>
+<record>
+  <date>2019-08-15T16:21:48</date>
+  <millis>1565857308010</millis>
+  <sequence>8</sequence>
+  <logger>main</logger>
+  <level>INFO</level>
+  <class>CH15.SimpleThreadLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>main: message 8</message>
+</record>
+<record>
+  <date>2019-08-15T16:21:49</date>
+  <millis>1565857309012</millis>
+  <sequence>9</sequence>
+  <logger>main</logger>
+  <level>INFO</level>
+  <class>CH15.SimpleThreadLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>main: message 9</message>
+</record>
+</log>
